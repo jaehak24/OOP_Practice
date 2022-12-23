@@ -1,0 +1,16 @@
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2
+    datasource:
+      url: jdbc:[Database]://localhost:3306/[Database???]
+      username: jaehak24
+      password: lee0422
+      driver-class-name: [JDBC ????]
+    jpa:
+      hibernate:
+        ddl-auto: create # ??? ?? ??
+      show-sql: true # SQL ??? ??
+
+
