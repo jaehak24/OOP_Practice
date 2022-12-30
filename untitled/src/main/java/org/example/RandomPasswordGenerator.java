@@ -21,7 +21,7 @@ public class RandomPasswordGenerator {
         CharacterRule upperCaseRule=new CharacterRule(upperCaseChars);
         upperCaseRule.getNumberOfCharacters();
 
-        CharacterData di
+        CharacterData digitChars=EnglishCharacterData.
 
     }
 
